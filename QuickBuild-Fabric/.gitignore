@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+*.jar
+*.war
+*.zip
+
+# IDE
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Java
+*.class
+*.log
+*.pot
+*.rar
+.mtj.tmp/
+
+# Minecraft
+run/
+.minecraft/
+*.dat
+*.mca
+*.mcr

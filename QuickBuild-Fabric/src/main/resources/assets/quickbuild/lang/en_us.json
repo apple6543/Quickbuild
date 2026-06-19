@@ -1,0 +1,8 @@
+pack.name=QuickBuild
+pack.description=Spawn pre-built structures instantly with a category menu. Right-click a compass to get started.
+
+quickbuild.title=QuickBuild
+quickbuild.category.pokemon=🐉 Pokemon
+quickbuild.category.buildings=🏠 Buildings
+quickbuild.category.vehicles=🚗 Vehicles
+quickbuild.category.extras=⚔ Extras
